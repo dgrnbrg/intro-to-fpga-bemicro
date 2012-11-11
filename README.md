@@ -1,3 +1,18 @@
+# Using the program on the BemicroSDK
+
+Pressing buttons quickly has no effect. You must press 2x a second or slower, since the program filters out rapid button presses.
+
+There are 4 modes: binary counter, gray counter, game of life with rule 30, and game of life with rule 150.
+
+The button closest to the dip switch always resets the FPGA.
+
+Press the 2 buttons furthest away from dip switch to cycle between the modes.
+
+In the counter modes, one button increments the counter, and the other decrements it. Read more about gray codes on Wikipedia.
+
+In the game of life modes, press the outermost button once (or more) to turn on some LEDs. Then, press the middle button to start the game of life simulation running. If you do not press the button to turn on some LEDs, you'll see nothing in the game of life modes. If you pressed the middle button to start the simulation, you will not be able to turn on any LEDs until you stop the simulation by pressing the middle button again.
+
+When you re-enter a mode, it will be in the same state in was when you left it.
 
 # To Simulate:
 
