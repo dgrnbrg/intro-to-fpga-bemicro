@@ -51,7 +51,7 @@ and paste in the following contents, then save:
 
 To allow the above change to take effect, you simply must run
 
-    udevadm control --reload-rules
+    sudo udevadm control --reload-rules
 
 The rule will automatically be loaded at boot time, so the above command is only needed after you first create the new rule.
 
