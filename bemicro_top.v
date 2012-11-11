@@ -76,7 +76,7 @@ module bemicro_top(
    reg [7:0]  led;
 	
 	assign clk = CLK_FPGA_50M;
-	assign pb = {~CPU_RST_N, ~PBSW_N};
+	assign pb = {~PBSW_N, ~CPU_RST_N};
 	assign {F_LED0,F_LED1,F_LED2,F_LED3,F_LED4,F_LED5,F_LED6,F_LED7} = ~led;
 
 /*	
