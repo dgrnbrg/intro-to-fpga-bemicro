@@ -177,7 +177,7 @@ module bemicro_top(
 
    // What will each of these conditions synthesize to?
    wire pb0_saturated = pb0_cntr[25]; // Saturates after .336 seconds
-   wire pb1_saturated = (pb1_cntr[25:0] == 26'h2000000) ? 1'b1 : 1'b0; // Saturates after .336 seconds
+   wire pb1_saturated = (pb1_cntr[25:0] > 26'he4e1c0) ? 1'b1 : 1'b0; // Saturates after .300 seconds
 
    wire pb0_event = pb_in[0] && pb0_saturated && ~pb_in[1];
    wire pb1_event = pb_in[1] && pb1_saturated && ~pb_in[0];
