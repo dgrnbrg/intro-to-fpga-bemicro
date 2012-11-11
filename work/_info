@@ -1,0 +1,113 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/dgrnbrg/bemicro/intro
+vbemicro_tb
+!s100 Y:PoAZI<OPYfe>APe=gVz1
+InKOmK=RkM8Pd^HikMIM1A2
+Z1 V]zaMlW=Q3J:3WVi7[7dFa3
+Z2 d/home/dgrnbrg/bemicro/intro
+w1352664825
+Z3 8bemicro_tb.v
+Z4 Fbemicro_tb.v
+L0 10
+Z5 OV;L;10.0d;49
+r1
+!s85 0
+31
+!s108 1352664828.056145
+!s107 bemicro_tb.v|
+Z6 !s90 -reportprogress|300|-work|work|bemicro_tb.v|
+!s101 -O0
+Z7 o-work work -O0
+vbemicro_top
+Z8 !s100 N5nd0LWgFLoHiLHXIN9>z0
+Z9 IQ>U?][DaD9KEFMciA7zaC1
+Z10 VCH391]BgSJAUjNlMk>3SA0
+R2
+Z11 w1352662303
+Z12 8bemicro_top.v
+Z13 Fbemicro_top.v
+L0 2
+R5
+r1
+31
+Z14 !s90 -reportprogress|300|-work|work|bemicro_top.v|
+R7
+Z15 !s108 1352664827.974292
+Z16 !s107 bemicro_top.v|
+!s85 0
+!s101 -O0
+vbinary_counter
+Z17 !s100 hIH=DPAEb:FJIiIY@CXS91
+Z18 INcIAc?`cWP?Ta>PIgKgYn2
+Z19 VoOHi9?bA@5oUPY3G<Co;a3
+R2
+Z20 w1352653014
+Z21 8binary_counter.v
+Z22 Fbinary_counter.v
+L0 2
+R5
+r1
+31
+Z23 !s90 -reportprogress|300|-work|work|binary_counter.v|
+R7
+Z24 !s108 1352664827.990866
+Z25 !s107 binary_counter.v|
+!s85 0
+!s101 -O0
+vcounter_sat
+Z26 !s100 2:9cQh]kcZTFE<PJW_MkO2
+Z27 I30R;?FniR3XFVKNAo_FbE3
+Z28 VA]0HcHiGkcN__L<bY06;W1
+R2
+Z29 w1352651356
+Z30 8counter_sat.v
+Z31 Fcounter_sat.v
+L0 4
+R5
+r1
+31
+Z32 !s90 -reportprogress|300|-work|work|counter_sat.v|
+R7
+Z33 !s108 1352664828.004816
+Z34 !s107 counter_sat.v|
+!s85 0
+!s101 -O0
+vgray_counter
+Z35 !s100 kRjDfHBIiZU;ejV=Xh^Ve0
+Z36 IXbRPFL6W>]L]:3CIoJm1X0
+Z37 VHf^^<c0gi?KRkZ<PGMFP33
+R2
+Z38 w1352653040
+Z39 8gray_counter.v
+Z40 Fgray_counter.v
+L0 2
+R5
+r1
+31
+Z41 !s90 -reportprogress|300|-work|work|gray_counter.v|
+R7
+Z42 !s108 1352664828.018115
+Z43 !s107 gray_counter.v|
+!s85 0
+!s101 -O0
+vlife_1d
+Z44 !s100 @Dlez`2Rob2SHF7FANCl50
+Z45 IQD[RSL]X2@VYkA8VjznL20
+Z46 V7h6>YY4YD;KAmge7ZcoA]0
+R2
+Z47 w1352653064
+Z48 8life_1d.v
+Z49 Flife_1d.v
+L0 19
+R5
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|life_1d.v|
+R7
+!s85 0
+Z51 !s108 1352664828.036075
+Z52 !s107 life_1d.v|
+!s101 -O0
