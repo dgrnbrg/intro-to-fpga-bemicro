@@ -57,6 +57,8 @@ The rule will automatically be loaded at boot time, so the above command is only
 
 ## Modelsim
 
+I was unable to get the Altera Installer to work. Instead, I just downloaded the "v10.0d Software Download for Quartus II v12.0", which worked with the below modification to the `setup` script.
+
 ### Installing
 
 Due to a shell incompatibility in Ubuntu (uses `dash` instead of `bash` by default), after unzipping the modelsim installer, you must change the first line of the script from

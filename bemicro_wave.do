@@ -9,10 +9,8 @@ add wave -noupdate -radix ascii /bemicro_tb/bemicro_top/state_str
 add wave -noupdate -radix hexadecimal /bemicro_tb/bemicro_top/reset_cnt
 add wave -noupdate -radix hexadecimal /bemicro_tb/bemicro_top/pb0_cntr
 add wave -noupdate /bemicro_tb/bemicro_top/pb1_cntr
-add wave -noupdate /bemicro_tb/bemicro_top/pb2_cntr
 add wave -noupdate /bemicro_tb/bemicro_top/pb0_saturated
 add wave -noupdate /bemicro_tb/bemicro_top/pb1_saturated
-add wave -noupdate /bemicro_tb/bemicro_top/pb2_saturated
 add wave -noupdate /bemicro_tb/bemicro_top/pb0_event
 add wave -noupdate /bemicro_tb/bemicro_top/pb1_event
 add wave -noupdate /bemicro_tb/bemicro_top/pb2_event
